@@ -1,0 +1,3 @@
+- [ ] Receive arg and map to url from env
+- [ ] Find package for handling command line argument
+  - https://www.npmjs.com/package/minimist
